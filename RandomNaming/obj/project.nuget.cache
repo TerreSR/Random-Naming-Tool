@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bipk5Qjibwc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lobst\\Desktop\\ランダム命名\\RandomNaming\\RandomNaming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lobst\\.nuget\\packages\\spectre.console\\0.57.2\\spectre.console.0.57.2.nupkg.sha512",
+    "C:\\Users\\lobst\\.nuget\\packages\\spectre.console.ansi\\0.57.2\\spectre.console.ansi.0.57.2.nupkg.sha512",
+    "C:\\Users\\lobst\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.12\\microsoft.netcore.app.runtime.win-x64.10.0.12.nupkg.sha512",
+    "C:\\Users\\lobst\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.12.nupkg.sha512",
+    "C:\\Users\\lobst\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.12\\microsoft.aspnetcore.app.runtime.win-x64.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
